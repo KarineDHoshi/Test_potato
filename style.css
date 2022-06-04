@@ -67,7 +67,7 @@ a {
   width: 70px;
   padding: 5px 10px;
   text-align: center;
-  color: #fff;
+  color: rgb(0, 0, 0);
   border-radius: 4px;
   background: linear-gradient(to top, #1bd653, #a0af1c);
   box-shadow: 0 2px 4px 0 rgb(0 0 0 / 50%);
@@ -75,7 +75,7 @@ a {
 }
 
 .btn:hover {
-  background: #4a90e2;
+  background: #53be67;
 }
 
 /* ================ END : NAVIGATION ================ */
@@ -85,7 +85,7 @@ a {
   margin-top: 48px;
   position: relative;
   height: 500px;
-  background: url(./img/home-hero-bg.svg) center center no-repeat, #f6f7ff;
+  background: url(./img/home-hero-bg.svg) center center no-repeat, #53943d;
   background-size: 2560px auto;
 }
 
